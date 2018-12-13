@@ -1,0 +1,5 @@
+# Compile of RAM1PORT.vhd was successful.
+# Compile of decode4to7.vhd was successful.
+# Compile of Hammam_bcd.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui +altera -l msim_transcript work.ram1port
